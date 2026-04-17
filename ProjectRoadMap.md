@@ -3,3 +3,7 @@ Sprint 1:
 - [x] find existing repository on github related to your idea.
 - [x] commit changes in README file
 - [x] run and evaluate code you found
+- [x] create projectroadmap file
+- [ ] begin creating code
+- [ ] testing code
+- [ ] making changes to code if applicable 
