@@ -4,6 +4,6 @@ Sprint 1:
 - [x] commit changes in README file
 - [x] run and evaluate code you found
 - [x] create projectroadmap file
-- [ ] begin creating code
-- [ ] testing code
+- [x] begin creating code
+- [x] created app.py file
 - [ ] making changes to code if applicable 
