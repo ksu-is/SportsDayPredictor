@@ -6,4 +6,6 @@ Sprint 1:
 - [x] create projectroadmap file
 - [x] begin creating code
 - [x] created app.py file
+- [x] created templates folder.
+- [x] created static folder
 - [ ] making changes to code if applicable 
