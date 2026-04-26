@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1>Leaderboard</h1>
+
+{% for user, score in data %}
+    <p>{{ user }} - {{ score or 0 }} pts</p>
+{% endfor %}
+
+{% endblock %}

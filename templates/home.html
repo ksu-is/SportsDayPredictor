@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1> Welcome {{ user }}</h1>
+
+<h2>Make Predictions</h2>
+
+{% for game in games %}
+<form method="post" action="/predict">
+    <p>{{ game }}</p>
+    <input type="hidden" name="game" value="{{ game }}">
+    <input name="prediction" placeholder="Who wins?" required>
+    <button type="submit">Submit</button>
+</form>
+{% endfor %}
+
+{% endblock %}

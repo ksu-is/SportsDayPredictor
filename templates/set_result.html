@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1>Set Game Results</h1>
+
+{% for game in games %}
+<form method="post">
+    <p>{{ game }}</p>
+    <input type="hidden" name="game" value="{{ game }}">
+    <input name="result" placeholder="Actual winner" required>
+    <button type="submit">Submit</button>
+</form>
+{% endfor %}
+
+{% endblock %}
+
