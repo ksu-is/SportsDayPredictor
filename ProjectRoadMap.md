@@ -8,4 +8,9 @@ Sprint 1:
 - [x] created app.py file
 - [x] created templates folder.
 - [x] created static folder
-- [ ] making changes to code if applicable 
+- [x] making changes to code if applicable 
+- [x] finish sprint 2
+- [x] finish sprint 3
+- [x]  schedule presentation
+- [x] run and tested code.
+- []   
