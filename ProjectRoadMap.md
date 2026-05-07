@@ -1,4 +1,4 @@
-Sprint 1:
+
 - [x] Create repository and join KSU-IS organization on github
 - [x] find existing repository on github related to your idea.
 - [x] commit changes in README file
@@ -13,4 +13,7 @@ Sprint 1:
 - [x] finish sprint 3
 - [x]  schedule presentation
 - [x] run and tested code.
-- []   
+- [x] present project
+- [x]   turn in everything.
+
+      
